@@ -66,7 +66,7 @@ When I'm not in research mode, I architect **AI-powered systems** like LifeMemor
 - 🎯 **Open to:** research collaborations, ML/SWE internships, open-source contributions
 - 💬 **Ask me about:** RAG pipelines, AHP-based evaluation, AWS 3-tier architectures, pgvector
 - ⚡ **Fun fact:** I once analyzed **~4.8M UIDAI records** and turned them into actionable district-level policy insights
-- 📫 **Reach me:** [jyotishiva210@gmail.com](mailto:jyotishiva210@gmail.com) · +91 8627026538
+
 
 <br clear="right" />
 
